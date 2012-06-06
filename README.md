@@ -1,4 +1,15 @@
-CP-Pascal-Editor
-================
+CP Pascal Compiler
+===============
+## What is CP Pascal Compiler ? 
+CP Pascal Compiler is a Pascal compiler based on Free Pascal with Chinese localization.
 
-A Pascal compiler based on Free Pascal with Chinese localization.
+## How can I get it?  
+You can get a local copy of the cpcompiler repository from GitHub using the following command.
+`git clone git://github.com/lezizi/CP-Pascal-Editor.git`
+
+## What has happened to the source repository on code.google.com?
+The latest version of CP Pascal Compiler has be transferred to GitHub and now it is hosted with social-coding support. :)
+
+## License
+
+CP Pascal Compiler is distributed under the license of GNU GPL v2.
